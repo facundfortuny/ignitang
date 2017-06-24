@@ -1,0 +1,22 @@
+body {
+    -webkit-font-smoothing: subpixel-antialiased;
+    font-family:"Open Sans",Helvetica,Arial,sans-serif;
+    font-size:14px;
+    font-weight: normal;
+    font-style: normal;
+    line-height:22px;
+    color: $blue-base;
+}
+
+h1, .h1 {
+	color: $red-base;
+	font-family: 'Concert One', Arial,sans-serif;
+    font-size:40px;
+    line-height:1;
+    margin-bottom: 18px;
+}
+
+h2, .h2 {
+	font-family: 'Concert One',Arial,sans-serif;
+	font-size:28px;
+}
